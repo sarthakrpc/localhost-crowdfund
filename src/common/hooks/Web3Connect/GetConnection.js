@@ -1,5 +1,5 @@
 import { useState, createContext, useMemo, useContext, useEffect } from "react";
-import { ethers } from "ethers";
+import {ethers} from "ethers";
 import {
   CHAIN_IDS,
   LOCALHOST_TESTNET_CHAIN_ID,
